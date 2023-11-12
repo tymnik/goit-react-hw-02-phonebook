@@ -13,9 +13,11 @@ font-weight: 500;
 }
 
 .inputField {
-    margin-left: 10px;
     border: 2px solid #ADCFFF;
     border-radius: 20px;
+    width: 100%;
+    height: 30px;
+    margin: 10px auto;
 }
 
 .inputField:hover,
@@ -36,7 +38,7 @@ font-weight: 500;
     font-family: -apple-system, sans-serif;
     font-size: 16px;
     font-weight: 500;
-    margin: 0;
+    margin: 0 auto;
     outline: none;
     padding: 1rem 1.3rem;
     quotes: auto;
